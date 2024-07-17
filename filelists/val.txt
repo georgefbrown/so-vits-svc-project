@@ -1,0 +1,2 @@
+./dataset/44k/target/en042b_2.wav
+./dataset/44k/target/en026b_0.wav
